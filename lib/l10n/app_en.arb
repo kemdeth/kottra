@@ -1,0 +1,17 @@
+{
+  "@@locale": "en",
+
+  "appName": "KotTra",
+
+  "navHome": "Home",
+  "navTasks": "Tasks",
+  "navFinance": "Finance",
+  "navProfile": "Profile",
+
+  "homeGreeting": "Hello, {name}",
+  "@homeGreeting": {
+    "placeholders": {
+      "name": { "type": "String" }
+    }
+  }
+}
